@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ssm-pages:war">
+    <output-path>$PROJECT_DIR$/ssm-pages/target</output-path>
+    <root id="archive" name="ssm-pages-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ssm-pages:war exploded" />
+    </root>
+  </artifact>
+</component>
